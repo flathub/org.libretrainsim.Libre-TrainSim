@@ -1,7 +1,7 @@
 {
 	"app-id": "org.libretrainsim.Libre-TrainSim",
 	"runtime": "org.freedesktop.Platform",
-	"runtime-version": "20.08",
+	"runtime-version": "21.08",
 	"sdk": "org.freedesktop.Sdk",
 	"command": "libre-trainsim",
 	"modules": [
@@ -29,8 +29,7 @@
 				},
 				{
 					"type": "archive",
-					"url": "https://github.com/Jean28518/Libre-TrainSim/releases/download/v0.8/Libre_TrainSim_Linux64_v0-8.zip",
-					"dest-filename": "Libre_TrainSim_Linux64_v0-8.zip",
+					"url": "https://github.com/Libre-TrainSim/Libre-TrainSim/releases/download/v0.8/Libre_TrainSim_Linux64_v0-8.zip",
 					"sha256": "179255021d45e812eccfe014ab2cd8c978bf8a03f30e29ba0602c8ccd598cf57"
 				},
 				{
