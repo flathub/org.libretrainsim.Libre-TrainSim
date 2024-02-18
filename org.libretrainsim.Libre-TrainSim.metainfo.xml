@@ -25,7 +25,7 @@
   </description>
 
   <launchable type="desktop-id">org.libretrainsim.Libre-TrainSim.desktop</launchable>
-
+  <developer_name>LibreTrainSim contributors</developer_name>
   <content_rating type="oars-1.0" />
   <url type="homepage">
 	https://www.libretrainsim.org/
@@ -54,17 +54,18 @@
 	  <image> https://www.server-jean.de/LibreTrainSim/0.8/screenshots/5.png </image>
 	</screenshot>
   </screenshots>
-  
+
   <releases>
 	<release date="2021-08-13" version="Alpha v0.8">
 	  <description>
 		<p>
 		  Improved / Changed
-		  <ul>
+                </p>
+		<ul>
             <li> Passengers have arrived to Libre TrainSim! They exist </li>
             <li> Track Wolfsfurt to Buchenhain got expanded to Hainfurt. </li>
             <li> Libre TrainSim goes mobile! Android version with mobile interface is now available </li>
-            <li> Multi Language Support. For contributing languages, see: https://github.com/Jean28518/Libre-TrainSim/wiki/Translating-Libre-TrainSim </li>
+            <li> Multi Language Support. </li>
             <li> Camera Shaking in Cabin View </li>
             <li> Track Files got much smaller. </li>
             <li> Loading time was improved a lot </li>
@@ -79,7 +80,6 @@
             <li> Modular Signal System is now possible </li>
             <li> Rails have now optional automatic tendency </li>
 		  </ul>
-		</p>
 	  </description>
 	</release>
   </releases>
