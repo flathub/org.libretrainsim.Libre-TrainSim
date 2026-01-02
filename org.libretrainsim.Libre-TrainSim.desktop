@@ -5,6 +5,7 @@ Type=Application
 Name=Libre TrainSim
 Comment=Free Train Simulator for everyone
 Categories=Game;Simulation;
+Keywords=Train;Simulator;Simulation;
 
 Icon=org.libretrainsim.Libre-TrainSim
 Exec=libre-trainsim
